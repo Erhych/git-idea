@@ -8,5 +8,6 @@ package com.eric.git;
 public class GitDemo1 {
     public static void main(String[] args) {
         System.out.println("hellogit 01");
+        System.out.println("hellogit 02");
     }
 }
