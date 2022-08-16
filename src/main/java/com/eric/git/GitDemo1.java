@@ -11,5 +11,6 @@ public class GitDemo1 {
         System.out.println("hellogit 02");
         System.out.println("hello 03");
         System.out.println("hello 04");
+        System.out.println("hot test");
     }
 }
