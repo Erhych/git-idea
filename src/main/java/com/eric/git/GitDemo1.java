@@ -9,5 +9,6 @@ public class GitDemo1 {
     public static void main(String[] args) {
         System.out.println("hellogit 01");
         System.out.println("hellogit 02");
+        System.out.println("hello 03");
     }
 }
